@@ -1,7 +1,7 @@
 package main
 
 import "github.com/go-martini/martini"
-import "github.com/drlenux/go/app/Controllers/HomeController"
+//import "github.com/drlenux/go/app/Controllers/HomeController"
 //import "github.com/codegangsta/inject"
 
 func main() {
